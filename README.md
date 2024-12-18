@@ -1,6 +1,9 @@
 # 🚀 Advanced YOLO Object Detection System
 
 This project implements an advanced object detection system using **YOLO (You Only Look Once)**. The system provides real-time object detection capabilities for **images**, **videos**, and **live streams**. The YOLOv8 model (and other variants) is used to detect and annotate objects. The user interface is built with **Streamlit**, which allows easy integration and interaction with uploaded media files and live camera feeds.
+## Screenshot of my project 
+![Alt text](https://github.com/mahmouddbelo/Object-Detection-System/blob/main/Advanced%20YOLO%20Detection%20-%20Google%20Chrome%2012_18_2024%205_59_04%20PM.png)
+
 
 ## 🛠️ Features
 
